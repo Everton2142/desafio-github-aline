@@ -14,7 +14,7 @@ Os objetivos foram ajustados conforme achei necessário, para uma melhor realiza
 
 2. Adicionar um README.md ao criar o repositório; [✅]
 
-3. Utilezar o Github.dev para editar o projeto diretamente do editor web do Github; []
+3. Utilezar o Github.dev para editar o projeto diretamente do editor web do Github; [✅]
 
 4. Adicionar um colaborador ao repositório; [✅]
 
