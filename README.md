@@ -20,7 +20,7 @@ Os objetivos foram ajustados conforme achei necessário, para uma melhor realiza
 
 5. Realização de um clone do repositório por ambos colaboradores; [✅]
 
-6. Realizar alterações, Commits, Issues e Pull Requests; []
+6. Realizar alterações, Commits, Issues e Pull Requests; [✅]
 
 7. Editar o arquivo "README.me" de apresentação do projeto com a linguagem Markdown; [✅]
 
