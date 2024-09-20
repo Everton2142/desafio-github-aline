@@ -16,9 +16,9 @@ Os objetivos foram ajustados conforme achei necessário, para uma melhor realiza
 
 3. Utilezar o Github.dev para editar o projeto diretamente do editor web do Github; []
 
-4. Adicionar um colaborador ao repositório; []
+4. Adicionar um colaborador ao repositório; [✅]
 
-5. Realização de um clone do repositório por ambos colaboradores; []
+5. Realização de um clone do repositório por ambos colaboradores; [✅]
 
 6. Realizar alterações, Commits, Issues e Pull Requests; []
 
