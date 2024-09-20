@@ -10,7 +10,7 @@ Os objetivos foram ajustados conforme achei necessário, para uma melhor realiza
 
 ## Objetivos:
 
-1. Criar um repositório e nomeá-lo adequadamente; []
+1. Criar um repositório e nomeá-lo adequadamente; [x]
 
 2. Adicionar um README.md ao criar o repositório; []
 
