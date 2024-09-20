@@ -10,9 +10,9 @@ Os objetivos foram ajustados conforme achei necessário, para uma melhor realiza
 
 ## Objetivos:
 
-1. Criar um repositório e nomeá-lo adequadamente; [x]
+1. Criar um repositório e nomeá-lo adequadamente; [✅]
 
-2. Adicionar um README.md ao criar o repositório; []
+2. Adicionar um README.md ao criar o repositório; [✅]
 
 3. Utilezar o Github.dev para editar o projeto diretamente do editor web do Github; []
 
@@ -22,7 +22,7 @@ Os objetivos foram ajustados conforme achei necessário, para uma melhor realiza
 
 6. Realizar alterações, Commits, Issues e Pull Requests; []
 
-7. Editar o arquivo "README.me" de apresentação do projeto com a linguagem Markdown; []
+7. Editar o arquivo "README.me" de apresentação do projeto com a linguagem Markdown; [✅]
 
    
 
